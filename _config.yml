@@ -17,7 +17,7 @@ title: 500 Errors dot com
 description: > # this means to ignore newlines until "baseurl:"
   Tim Robertson has a website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.500errors.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://timaro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  timaro
 
 # Build settings
