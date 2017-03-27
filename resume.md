@@ -5,9 +5,10 @@ layout: page
 
 # Summary
 
-Hi, I'm Tim. I'm a "full stack" engineer, but I have a doctorate in applied machine learning,
-and it wouldn't be a mistake to say that I am therefore also a "data scientist". I've written code for 
-some famous companies, like Twitch and Yelp, and founded two YCombinator-funded startups.
+Hi, I'm Tim. I'm a full-stack engineer, but I have a doctorate in computational biology,
+and a lot of experience in applied machine learning. Therefore I'm also a 
+"data scientist". I've worked for some famous companies, like Twitch and Yelp, and 
+founded two YCombinator-funded startups.
 
 If you have an interesting career opportunity, please contact me: tim@500errors.com
 
@@ -22,7 +23,7 @@ If you have an interesting career opportunity, please contact me: tim@500errors.
 I co-created Omniref, a web application for annotating source code. Grew
 the site from nothing to hundreds of thousands of monthly unique visitors
 and tens of millions of pages. We graduated from the 
-[YCombinator Winter 2015](https://blog.ycombinator.com/yc-backed-omniref-yc-w15-is-rap-genius-for-code/){:target="_blank"}
+[YCombinator winter 2015](https://blog.ycombinator.com/yc-backed-omniref-yc-w15-is-rap-genius-for-code/){:target="_blank"}
 batch, and raised significant seed funding from well-known investors.
 
 In addition to all of the administrative and legal tasks, I wrote half of the
@@ -36,7 +37,7 @@ code for the site (Ruby, Rails), wrote a number of popular blog posts (i.e.
 </div>
 
 Vayable was a marketplace for unique tours and travel experiences. Graduated from the
-[YCombinator Summer 2012](https://techcrunch.com/2012/08/21/y-combinator-s12-batch-4/){:target="_blank"} batch, 
+[YCombinator summer 2012](https://techcrunch.com/2012/08/21/y-combinator-s12-batch-4/){:target="_blank"} batch, 
 and raised outside funding from top angel and venture investors. We were covered extensively
 by the [New York Times](http://www.nytimes.com/2012/07/08/travel/click-here-for-an-offbeat-experience.html){:target="_blank"}, 
 [Fortune](http://fortune.com/2012/10/03/11-sites-that-want-to-rule-the-share-economy/){:target="_blank"}, and many others. 
