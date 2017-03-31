@@ -1,0 +1,28 @@
+---
+title: Omniref
+layout: page
+sidebar: false
+header: false
+---
+  <img src="/assets/omniref_logo.png" class='mt-4 mb-4' />
+  <h2>Omniref is Closed</h2>
+
+  <p>
+    As of January 2017, we've shut down Omniref.com. 
+    Thank you for your support over the years. I've preserved the most popular 
+    blog posts that I wrote for the site:
+  </p>
+
+  {% for my_page in site.pages %}
+    {% if my_page.categories contains 'omniref' %}
+      <li class="inline-block block-lg ml-1 ml-lg-0">
+        <h4 class="mt-0">
+          <a class="no-underline" href="{{ my_page.url | prepend: site.baseurl }}">
+            {{ my_page.title }}
+          </a>
+        </h4>
+      </li>
+    {% endif %}
+  {% endfor %}
+
+

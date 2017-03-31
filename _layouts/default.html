@@ -5,14 +5,18 @@
   
   <!-- font-smoothing is only applied on dark themes -->
   <body class="font-smoothing">
-
-    {% include header.html %}
-
+    
+    {% if page.nav != false %}
+      {% include header.html %}
+    {% endif %}
+    
     <div>
       {{ content }}
     </div>
 
-    {% include footer.html %}
+    {% if page.footer != false %}
+      {% include footer.html %}
+    {% endif %}
 
   </body>
 

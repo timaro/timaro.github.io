@@ -9,7 +9,7 @@
         </h4>
       </li>
       {% for my_page in site.pages %}
-        {% if my_page.title %}
+        {% if my_page.sidebar != false && my_page.title %}
         <li class="inline-block block-lg text-right ml-1 ml-lg-0">
           <h4 class="text-accent mt-0">
             <a class="no-underline" href="{{ my_page.url | prepend: site.baseurl }}">

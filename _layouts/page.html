@@ -3,7 +3,9 @@ layout: default
 ---
 <article class="container mx-auto px-2">
 
-  {% include page_heading.html %}
+  {% if page.header != false %}
+   {% include page_heading.html %}
+  {% endif %}
 
   <div class="prose mb-4 py-4">
     {{ content }}
