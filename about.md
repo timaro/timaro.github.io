@@ -8,7 +8,7 @@ in New York City, where I'm working on problems at the intersection of AI and ph
 development. 
 
 I've had an odd career trajectory. I started as a programmer, went to graduate school
-in biochemistry and earned a degree in computational biolgoy, but I eventually 
+in biochemistry and earned a degree in computational biology, but I eventually 
 left research behind to become one of the first engineers at this goofy live video site, 
 where some dude strapped a camera to his head and broadcast his life. It was an inexplicably 
 bad career decision. But as further proof that even astronomically unlikely events will 
@@ -20,4 +20,4 @@ eventually be called "data science", but at the time was just "science". After t
 I created a few things of my own (Omniref.com, Vayable.com), because life is too short
 not to take a few chances. Those didn't really work out, but not for lack of trying. 
 
-I enjoy cooking, coffee, and a good onsen (look it up). You may contact me at tim@500errors.com
+I enjoy cooking, coffee, and a good onsen (温泉、look it up). You may contact me at tim@500errors.com
