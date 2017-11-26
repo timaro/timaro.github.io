@@ -3,8 +3,9 @@ title: About me
 layout: page
 ---
 
-Hi. I'm Tim. I'm a scientist and engineer at Schrodinger in New York City, where 
-I'm working on problems at the intersection of AI and pharmaceutical development. 
+Hi. I'm Tim. I'm a scientist and engineer at [Schr&ouml;dinger](https://www.schrodinger.com/) 
+in New York City, where I'm working on problems at the intersection of AI and pharmaceutical 
+development. 
 
 I've had an odd career trajectory. I started as a programmer, went to graduate school
 in biochemistry and earned a degree in computational biolgoy, but I eventually 
