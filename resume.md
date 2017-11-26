@@ -10,9 +10,16 @@ and a lot of experience in applied machine learning. Therefore I'm also a
 "data scientist". I've worked for some famous companies, like Twitch and Yelp, and 
 founded two YCombinator-funded startups.
 
-If you have an interesting career opportunity, please contact me: tim@500errors.com
-
 # Professional Experience
+
+<div class='job-header'>
+<h2 class='company'>Schr&ouml;dinger</h2>
+<h2 class='date'>2017-Present</h2>
+<h3 class='title'>Principal Scientist</h3>
+</div>
+
+I am working in a hybrid scientist/engineer role, developing and applying deep learning 
+and other AI techniques to problems in rational drug design. It's difficult and fun.
 
 <div class='job-header'>
 <h2 class='company'>Omniref.com</h2>
